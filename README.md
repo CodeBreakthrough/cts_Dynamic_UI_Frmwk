@@ -1,2 +1,3 @@
 # cts_Dynamic_UI_Frmwk
-ontains The Project Description Document and additional required files.  This UI Framework was created using Angular CLI version 15.2.2 and Node version 19.7.0
+Contains The Project Description Document and additional required files.  
+This UI Framework was created using Angular CLI version 15.2.2 and Node version 19.7.0
